@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(){
+int main(void){
 
   long card_number;
 
